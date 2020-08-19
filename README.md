@@ -1,14 +1,12 @@
-# bootcamp-gostack-desafio-fundamentos-react-native
+# Desafio 08: Rocketseat/GoSatck
 
-
-
-# Desafio 11: Rocketseat/GoSatck
-
-# GoRestaurant (mobile)
+# Fundamentos do React Native
 <p alin="center"><b>Aplicação para estudos em React Native:</b> Aplicativo para pedir pratos no restaurante </p>
 
 ## 🚀 Sobre
 Desafio sobre fundamentos do React-Native aplicado no Bootcamp GoStack da Rocketseat. Aplicados no [Desafio 08](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
+
+Nesse desafio, você desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native junto com o TypeScript, utilizando rotas, Async Storage e a Context API.
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto.
