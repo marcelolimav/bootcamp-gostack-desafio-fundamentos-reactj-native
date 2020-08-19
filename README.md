@@ -1,6 +1,6 @@
 # Desafio 08: Rocketseat/GoSatck
 
-# Fundamentos do React Native
+# Fundamentos do React Native - GoMarketplace
 <p alin="center"><b>Aplicação para estudos em React Native:</b> Aplicativo GoMarketplace</p>
 
 ## 🚀 Sobre
