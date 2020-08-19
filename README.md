@@ -23,4 +23,4 @@ As seguintes ferramentas foram usadas na construção do projeto.
 - [x] Exibir valor total dos itens no carrinho
 
 ## Preview
-![gorestaurant_mob](https://user-images.githubusercontent.com/26713717/90682134-e79c9280-e23a-11ea-86c1-ec92c221527c.png)
+![gomarketplace_mob](https://user-images.githubusercontent.com/26713717/90690298-d7d77b00-e247-11ea-9d56-70e7f5b9627c.png)
